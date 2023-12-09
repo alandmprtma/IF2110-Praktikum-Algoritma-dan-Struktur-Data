@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "listlinier.h": "c",
+        "stdio.h": "c"
+    }
+}
